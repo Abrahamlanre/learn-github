@@ -7,10 +7,6 @@
 
 🌟 Hit star button to save this repo in your profile
 
-<p align="left">
-<img src="/images/Github_poster1.jpeg"  height="400" />
-</p>
-
 # Learn Github 🚀
 
 Welcome to Github class! We are thrilled to embark on this exciting learning journey together. 
@@ -30,6 +26,11 @@ Git and GitHub are an essential part of the developer roadmap, particularly for 
 In the developer roadmap, learners are typically introduced to Git and GitHub early on as a foundational skill. They are taught how to set up a Git repository, make commits, and push changes to a remote repository on GitHub. They may also learn about basic Git commands like branching, merging, and rebasing.
 
 As learners progress in their developer roadmap, they may dive deeper into more advanced Git and GitHub features, such as using pull requests for code reviews, integrating Git with continuous integration/continuous deployment (CI/CD) pipelines, and automating workflows using GitHub Actions.
+
+<p align="center">
+<img src="https://github.com/drshahizan/learn-github/blob/main/images/github%20pic.gif"  height="600" />
+</p>
+
 
 ## Developer Roadmaps
 [Roadmap.sh](https://roadmap.sh/) is a website that provides roadmaps for learning various topics in technology, such as programming languages, web development, data science, and more. The roadmaps are essentially step-by-step guides that outline the skills, tools, and concepts that someone should learn to become proficient in a particular area.
@@ -92,7 +93,7 @@ GitHub profiles are a great way for developers to showcase their skills and proj
 
 | <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 😎 My students |
 |:---|
-| 1. [Qaisara](https://github.com/qaisarrra) <br> 2. [Low Junyi](https://github.com/LowJunyi2001) <br> 3. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 4. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 5. [Hong Pei Geok](https://github.com/peiyu00) <br> 6. [El Insyiraah](https://github.com/elleamyr) <br> 7. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 8. [Charlene A](https://github.com/Chikoness) <br> 9. [Neo Zheng Weng](https://github.com/zw-weng) <br> 10. [Wan Nur Sofea](https://github.com/wannursofea)<br> 11. [Camily Tang](https://github.com/camilytang)<br> 12. [Ng Shu Yu](https://github.com/ShuYu03) |
+| 1. [Big Data Management](https://github.com/drshahizan/BDM/blob/main/student.md) <br> 2. [High Performance Data Processing](https://github.com/drshahizan/HPDP/blob/main/student.md) <br> 3. [Web Programming](https://github.com/drshahizan/learn-php/blob/main/materials/others/student-info.md) <br> 4. [Software Engineering - section 01](https://github.com/drshahizan/software-engineering/blob/main/materials/student-01.md) <br> 5. [Software Engineering - section 02](https://github.com/drshahizan/software-engineering/blob/main/materials/student-02.md) <br> 6. [Qaisara](https://github.com/qaisarrra) <br> 7. [Low Junyi](https://github.com/LowJunyi2001) <br> 8. [Ahmad Aiman Hafizi bin Muhammad](https://github.com/AimanHafizi619) <br> 9. [KONG JIA ROU](https://github.com/jrkong2001utm) <br> 10. [Hong Pei Geok](https://github.com/peiyu00) <br> 11. [El Insyiraah](https://github.com/elleamyr) <br> 12. [SEPRIYANDI BIN AGUSR](https://github.com/sepz36) <br> 13. [Charlene A](https://github.com/Chikoness) <br> 14. [Neo Zheng Weng](https://github.com/zw-weng) <br> 15. [Wan Nur Sofea](https://github.com/wannursofea)<br> 16. [Camily Tang](https://github.com/camilytang)<br> 17. [Ng Shu Yu](https://github.com/ShuYu03) <br> 16. [Camily Tang](https://github.com/camilytang)<br> 17. [Ng Shu Yu](https://github.com/ShuYu03) <br> 18. [Yovi Pratama](https://github.com/yovipratama) |
 
 | <img alt="activity status" align="right" height="24" src="images/kotak.svg" /> 🗣 Others |
 |:---|
